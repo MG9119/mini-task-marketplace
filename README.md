@@ -72,7 +72,7 @@ The default XAMPP configuration used here is:
 - Username: `root`
 - Password: empty
 
-Do not use those default credentials in production.
+I did not use those default credentials in production.
 
 ## Project structure
 
